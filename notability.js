@@ -35,11 +35,7 @@ const response = {
         "gracePeriodExpiresAt": null,
         "expirationIntent": "CUSTOMER_CANCELLED",
         "overDeviceLimit": false,
-				"user": {
-					"id": "0b9c2a38-9d7c-4659-9812-623af642d392",
-					"email": "",
-					"__typename": "User"
-				},
+	"user": null
       },
       "isClassic": true
     }
