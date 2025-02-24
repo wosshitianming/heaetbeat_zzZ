@@ -23,7 +23,7 @@ const response = {
       "error": 0,
       "subscription": {
         "__typename": "AppStoreSubscription",
-        "status": "renewal",
+        "status": "active",
         "originalPurchaseDate": "2024-06-16T18:30:45.000Z",
         "originalTransactionId": "90002027553673",
         "expirationDate": "2099-12-31T24:00:00.000Z",
@@ -33,9 +33,13 @@ const response = {
         "refundedReason": null,
         "isInBillingRetryPeriod": false,
         "gracePeriodExpiresAt": null,
-        "expirationIntent": "CUSTOMER_RENEWAL",
+        "expirationIntent": "CUSTOMER_CANCELLED",
         "overDeviceLimit": false,
-        "user": null
+				"user": {
+					"id": "0b9c2a38-9d7c-4659-9812-623af642d392",
+					"email": "",
+					"__typename": "User"
+				},
       },
       "isClassic": true
     }
