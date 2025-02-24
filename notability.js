@@ -24,20 +24,20 @@ const response = {
       "subscription": {
         "__typename": "AppStoreSubscription",
         "status": "active",
-        "originalPurchaseDate": "2024-09-19T09:27:35.000Z",
-        "originalTransactionId": "570001185968888",
-        "expirationDate": "2099-12-31T23:59:59.000Z",
+        "originalPurchaseDate": "2024-06-16T18:30:45.000Z",
+        "originalTransactionId": "90002027553673",
+        "expirationDate": "2099-12-31T24:00:00.000Z",
         "productId": "com.gingerlabs.Notability.premium_subscription",
         "tier": "premium",
         "refundedDate": null,
         "refundedReason": null,
         "isInBillingRetryPeriod": false,
         "gracePeriodExpiresAt": null,
-        "expirationIntent": "CUSTOMER_CANCELLED",
+        "expirationIntent": "CUSTOMER_RENEWAL",
         "overDeviceLimit": false,
         "user": null
       },
-      "isClassic": false
+      "isClassic": true
     }
   }
 };
