@@ -23,7 +23,7 @@ const response = {
       "error": 0,
       "subscription": {
         "__typename": "AppStoreSubscription",
-        "status": "active",
+        "status": "renewal",
         "originalPurchaseDate": "2024-06-16T18:30:45.000Z",
         "originalTransactionId": "90002027553673",
         "expirationDate": "2099-12-31T24:00:00.000Z",
