@@ -16,7 +16,11 @@ obj = {
 				"overDeviceLimit": false,
 				"expirationIntent": "CUSTOMER_RENEWAL",
 				"__typename": "AppStoreSubscription",
-				"user": null,
+				                "user": {
+                    "id": "0b9c2a38-9d7c-4659-9812-623af642d392",
+                    "email": "",
+                    "__typename": "User"
+                },
 				"status": "active",
 				"originalPurchaseDate": "2024-06-16T18:30:45.000Z"
 			},
