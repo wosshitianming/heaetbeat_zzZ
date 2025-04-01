@@ -33,7 +33,7 @@ const response = {
         "refundedReason": null,
         "isInBillingRetryPeriod": false,
         "gracePeriodExpiresAt": null,
-        "expirationIntent": "CUSTOMER_CANCELLED",
+        "expirationIntent": "CUSTOMER_RENEWAL",
         "overDeviceLimit": false,
        "user": {
 					"id": "0b9c2a38-9d7c-4659-9812-623af642d392",
