@@ -41,7 +41,7 @@ const response = {
 					"__typename": "User"
 				},
       },
-      "isClassic": false
+      "isClassic": true
     }
   }
 };
