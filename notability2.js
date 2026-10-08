@@ -31,8 +31,8 @@ const premiumData = {
     "__typename": "Subscription",
     "source": "AppStoreConsumer",
     "tier": "premium",
-    "expirationDate": 1794381802000,
-    "renewalDate": 1794381802000,
+    "expirationDate": 32535187199000,
+    "renewalDate": 32535187199000,
     "gracePeriodEndDate": null,
     "details": {
       "__typename": "AppStoreSubscription",
